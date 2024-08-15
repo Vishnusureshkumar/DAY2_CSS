@@ -1,0 +1,32 @@
+body{
+
+    background-color: aqua;
+}
+
+#color1{
+    color: tomato;
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+#color2{
+    color: orange;
+    text-align: center;
+}
+
+#color3{
+    color: dodgerblue;
+    text-align: center;
+
+}
+
+#color4{
+    color:green;
+    text-align: center;
+}
+
+#color5{
+    color: grey;
+    text-align: center;
+}

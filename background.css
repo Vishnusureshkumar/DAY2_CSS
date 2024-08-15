@@ -1,0 +1,15 @@
+#head1{
+    background-color: blue;
+    border: 5px solid tomato;
+}
+
+#para1{
+    background-color: blueviolet;
+    border: 5px solid green;
+}
+
+body{
+    background-image: url(claysys-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
